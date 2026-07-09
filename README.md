@@ -60,7 +60,11 @@ Each gem grants a unique ability when combined with an item using the **Smithing
 
 - <b>Gem Arachnid</b> — unique drops, creepy & shiny  
 - <b>Jade Serpent</b> — <i>tameable</i> companion  
-- <b>Ruby Panda</b> — friendly but might steal items  
+- <b>Ruby Panda</b> — friendly but might steal items
+
+**Screenshots:**  
+![Gem Arachnid](images/gem_arachnid.png)
+![Gem Spider](images/gem_spider.png)
 
 ---
 
