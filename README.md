@@ -1,6 +1,9 @@
 <h1 align="center">
  𖢻 <span style="color:#6afaff;">CURIOUS CRYSTALS</span>  𖢻
 </h1>
+<h1 align="center">
+ 𖢻 <span style="color:#6afaff;">Abandoned project (might come back) </span>  𖢻
+</h1>
 
 <p align="center">
   <span style="color:#ff79c6;">A magical expansion for Minecraft 1.20.1</span><br>
