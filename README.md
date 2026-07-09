@@ -1,6 +1,8 @@
 <h1 align="center">
  𖢻 <span style="color:#6afaff;">CURIOUS CRYSTALS</span>  𖢻
- <span style="color:#6afaff;">Abandoned project (might come back) </span>  
+</h1>
+<h1 align="center">
+ <span style="color:#ff0000;">Abandoned project (might come back) </span>  
 </h1>
 
 
