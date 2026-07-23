@@ -8,11 +8,11 @@ Curious Crystals was a collaborative modding project developed for Informatica P
 
 ## Team Roles
 
-- **KaasRijkeTurk**: Scrum Master & Developer
 - **mx-27**: Pixel Artist
 - **Wourior**: Developer
 - **EbbevanSmaalen**: Developer
 - **AlexdeWizard**: Developer
+- **KaasRijkeTurk**: Scrum Master & Developer
 - **Unnamed**: Product Owner & Mob Designer
 
 ## Features
