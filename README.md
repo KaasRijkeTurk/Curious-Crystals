@@ -13,7 +13,7 @@ Curious Crystals was a collaborative modding project developed for Informatica P
 - **Wourior**: Developer
 - **EbbevanSmaalen**: Developer
 - **AlexdeWizard**: Developer
-- **[Naam Product Owner]**: Product Owner & Mob Designer
+- **Unnamed Product Owner**: Product Owner & Mob Designer
 
 ## Features
 
